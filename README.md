@@ -1,5 +1,6 @@
 # Ben-jerrys-social-analytics
 
-School Project
+School Project (R Studio)
 
-Please look at "B&J".pdf before looking at data as "b&j_data".csv and .ipynb file
+Please look at "Instructions".pdf before looking at the presentation "B&J".pdf.
+The data is available under "products_b&j".csv and "reviews_b&j".csv. The source code is "b&j_analytics".r 
